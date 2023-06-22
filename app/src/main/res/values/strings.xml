@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ejercicio_Individual_12</string>
+    <string name="name_app">Food Appy</string>
+    <string name="content_desc">Portada aplicacion Food Appy</string>
+    <string name="title_food1">Filete de Pollo al Limon</string>
+    <string name="txt_food1">Sugerencias del Chef</string>
+    <string name="title_food2">Hipocalorico </string>
+    <string name="txt_food2">Sugerencias del Chef</string>
+    <string name="title_food3">Filete de Pollo al Limon</string>
+    <string name="txt_food3">Sugerencias del Chef</string>
+    <string name="cantidad">0</string>
+    <string name="add">+</string>
+    <string name="descrip_food1">cantidad plato 1</string>
+    <string name="descrip_food2">cantidad plato 2</string>
+    <string name="descrip_food3">cantidad plato 3</string>
+    <string name="rest">-</string>
+    <string name="description_img_food1">plato de comida, pollo con verduras</string>
+    <string name="description_autofill1">plato de comida, pollo con verduras</string>
+    <string name="description_img_food2">plato de comida, hipocalorico</string>
+    <string name="description_autofill2">plato de comida, hipocalorico</string>
+    <string name="description_img_food3">plato de comida, pastas con salsa y pollo</string>
+    <string name="description_autofill3">plato de comida, pastas con salsa y pollo</string>
+    <string name="description_ratingbar">calificacion 5 estrellas</string>
+    <string name="description_map">Mapa ubicacion restaurant Food Appy</string>
+    <string name="btn_cerrar">Cerrar</string>
+    <string name="btn_ubicacion">Ubicación</string>
+    <string name="btn_volver">Ir atrás</string>
+    <string name="icono_carrito">logo carrito de compras</string>
+    <string name="txt_ubicacion">Ubicación: Avenida General Bustamante 1005, Ñuñoa.</string>
+
+</resources>
